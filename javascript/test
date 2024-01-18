@@ -1,0 +1,9 @@
+y = 8
+B = 7
+G = y +B
+console.log(G)
+console.log("hello world") 
+var txt1 = "sanfounddry_";
+var txt2 = "javascriptmcq";
+console.log(txt1 + txt2);
+char b=
